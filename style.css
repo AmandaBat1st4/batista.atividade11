@@ -1,0 +1,51 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0f4d74;
+
+}
+h1 {
+    color: #043757;
+}
+h2 {
+    color: #0f4d74;
+}
+
+header {
+    margin-bottom: 2px;
+}
+
+footer {
+    color: #778899
+}
+
+#cabecalho-principal {
+    background-color: #b0c4de;
+    text-decoration: #0f4d74;
+    text-align: center;
+    padding: 4px;
+}
+
+.card-noticia {
+    border: 1px solid #0f4d74;
+    padding: 4px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+}
+
+.botao {
+    border: none;
+    color: #e0ffff;
+    background-color: #0f4d74;
+    cursor: pointer;
+    color: #eaecec;
+}
+
+.alerta {
+    font-weight: 700;
+    color: #197ab6;
+}
+
+.destaque {
+    border: 2px solid #3886b6;
+    background-color: #c0dcee;
+}
